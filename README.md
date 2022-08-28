@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6Hw0L9T/Logo-1.png" alt="Лого" width="100">l
+<img src="https://i.ibb.co/6Hw0L9T/Logo-1.png" alt="Лого" width="100"> **Матвей Пигалов**
 
 Мои хобби:
   + Путешествия
