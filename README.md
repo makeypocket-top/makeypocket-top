@@ -18,6 +18,4 @@
 - Подготовка к школе
 ___
 Связь со мной:
-<a href="https://vk.com/makeypokcet">Мой Vk</a>
-|
 <a href="https://t.me/gemeguardian">Мой Telegram</a>
